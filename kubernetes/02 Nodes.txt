@@ -1,0 +1,2 @@
+A node is a worker machine in Kubernetes, previously known as a minion
+
